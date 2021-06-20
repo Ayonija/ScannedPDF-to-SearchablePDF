@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hi", "hi.csproj", "{6BC943FE-F8CB-473E-8D5A-CFF1B3EAD757}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalize", "digitalize.csproj", "{6BC943FE-F8CB-473E-8D5A-CFF1B3EAD757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
